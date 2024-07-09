@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+  font-family: "Azeret Mono", monospace;
+}
+
+.section-parent{
+max-width: 1660px;
+height: 652px;
+margin-top: 140px;
+background-image: url("./B10A1-Challenge-Begins-main/assets/Hero-bg.png");
+text-align: center;
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+
+.image-section{
+  margin-bottom: auto;
+  margin-top: 45px;
+
+}
+
+.title-section{
+  width: 998px;
+height: 380px;
+margin: 0 auto;
+margin-top: 18px;
+}
+
+.title-section h1{
+  width: 998px;
+height: 100px;
+font-size: 38px;
+font-weight: 700;
+}
+
+.title-section p{
+  width: 852px;
+height: 30px;
+font-size: 12px;
+font-weight: 500;
+opacity: 0.7;
+margin: auto;
+margin-top: -30px;
+}
+
+#btn{
+  width: 208px;
+  height: 66px;
+  border-radius: 8px;
+border: none;
+background: rgb(22, 35, 61);
+color: white;
+font-size: 20px;
+font-weight: 600;
+margin-top: 19px;
+}
