@@ -99,7 +99,7 @@ font-weight: 600;
 margin-top: 19px;
 }
 
-/* third */
+/* third-container*/
 
 .section-child{
   width: 1250px;
@@ -487,6 +487,8 @@ margin: 0 auto;
 margin-top: 90px;
 }
 
+
+
 .react-box-1{
   width: 1140px;
 height: 219px;
@@ -586,6 +588,9 @@ color: white;
   height: 50px;
   margin: -83px -1px;
   border-radius: 16px;
+  font-size: 16px;
+font-weight: 400;
+text-align: center;
 }
 
 
@@ -616,6 +621,8 @@ border: 2px solid red;
 /* margin: 30px 127px; */
 margin: 30px auto;
 border-radius: 16px;
+display: flex;
+justify-content: space-between;
 
 }
 
