@@ -549,79 +549,17 @@ margin: 0 auto;
 .footer-part{
   width: 1250px;
   height: 330px;
-  border: 2px solid rgb(255, 255, 255);
+  border: 2px solid red;
   margin: 45px -1px;
   background-image: url("./B10A1-Challenge-Begins-main/assets/handshake.jpg");
   border-radius: 16px;
   
 }
 
-.footer-part{
-  width: 1261px;
-height: 313px;
-border: 2px solid red;
-margin: 0 auto;
-margin-top: 60px;
-}
-
 .footer-child{
+  width: 1044px;
+height: 185px;
+border: 2px solid red;
 margin: 71px auto;
-text-align: center;
-}
 
-.footer-child h1{
-  font-size: 32px;
-font-weight: 700;
-color: white;
-}
-
-.footer-child p{
-  height: 52px;
-  opacity: 0.7;
-  color: white;
-}
-
-.footer-child input {
-  width: 499px;
-  height: 50px;
-  margin: -83px -1px;
-  border-radius: 16px;
-}
-
-
-.footer-child button {
-  width: 130px;
-  height: 55px;
-  margin: -20px -3px;
-  font-size: 18px;
-  font-weight: 600;
-  border-radius: 16px;
-
-}
-
-.last-section-footer{
-max-width: 1660px;
-
-height: 100px;
-border: 2px solid red;
-border-radius: 16px;
-background: rgba(13, 19, 33, 0.03);
-margin-top: 78px;
-}
-
-.last-section-footer-title{
-  width: 1140px;
-height: 36px;
-border: 2px solid red;
-/* margin: 30px 127px; */
-margin: 30px auto;
-border-radius: 16px;
-
-}
-
-.last-section-footer-title p {
-  font-size: 20px;
-font-weight: 600;
-margin: 7px 10px;
-color: black;
 }
