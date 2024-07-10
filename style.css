@@ -129,12 +129,12 @@ height: 165px;
 
 
 .box-header-child h1{
-  width: 852px;
-  height: 65px;
   font-size: 32px;
 font-weight: 600;
 text-align: center;
     margin-left: 45px;
+    padding-top: 50px;
+    
   
 }
 
@@ -165,8 +165,11 @@ background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 
   justify-content: space-between;
   padding: 10px 20px;
   
+  
 }
-
+.rev{
+  flex-direction: row-reverse;
+}
 .first-box-child-text button{
   width: 150px;
   height: 48px;
@@ -394,6 +397,9 @@ flex-direction: row;
 justify-content: space-between;
 }
 
+
+
+
 .box-01, .box-02, .box-03{
   width: 364px;
 height: 316px;
@@ -405,19 +411,31 @@ border: 2px solid red;
 background: rgba(255, 76, 30, 0.05);
 }
 
+.two{
+  background-color: rgba(0, 76, 232, 0.05);
+  
+}
+
+.three{
+  background-color: rgba(255, 223, 0, 0.05);
+}
+
 .final-box{
   width: 284px;
 height: 219px;
 border: 2px solid red;
 margin: 0 auto;
 margin-top: 47px;
-background-image: url("./B10A1-Challenge-Begins-main/assets/html.png");
+/* background-image: url("./B10A1-Challenge-Begins-main/assets/html.png"); */
 background-repeat: no-repeat;
+
+
+
 
 }
 
 .final-box h1{
-  margin-top: 80px;
+
   font-size: 24px;
 font-weight: 600;
 line-height: 36px;
